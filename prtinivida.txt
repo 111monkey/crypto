@@ -21,3 +21,4 @@ globalfan 90
 autoreboot true
 custompanel 111mon051472
 loc 4d1cfb RG-001
+loc 49066d RG-002
