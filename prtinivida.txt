@@ -6,7 +6,7 @@ maxgputemp 97
 stratumproxy enabled
 
 # AK Poloniex
-proxywallet 0xa6843f38503b4ee2a983719177501bdf318c5df3
+#proxywallet 0xa6843f38503b4ee2a983719177501bdf318c5df3
 # AK Coinbase
 proxywallet 0xb051E41d693FAdfe6a06AcFF46A75A4bA5a4157B
 
