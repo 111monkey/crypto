@@ -3,7 +3,12 @@ globalminer claymore
 #globalminer sgminer-gm
 maxgputemp 97
 stratumproxy enabled
-proxywallet 0xa6843f38503b4ee2a983719177501bdf318c5df3
+
+# AK Poloniex
+#proxywallet 0xa6843f38503b4ee2a983719177501bdf318c5df3
+# AK Coinbase
+proxywallet 0xb051E41d693FAdfe6a06AcFF46A75A4bA5a4157B
+
 #proxywallet 0xDc8C597810eEE2380Acf9A04F6EDDb5914F154Ca
 #proxywallet 0x966c32aD0190B74dc561db93EcAf3f439B7E1A77
 #proxywallet 0x6d678086e87f16e5a61569d68add0c6b6559ab73
